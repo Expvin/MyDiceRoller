@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
 @Preview
 @Composable
 fun DiceRollerApp() {
-    DiceWithButtonAndImage(modifier = Modifier)
+    DiceWithButtonAndImage()
 }
 
 @Composable
